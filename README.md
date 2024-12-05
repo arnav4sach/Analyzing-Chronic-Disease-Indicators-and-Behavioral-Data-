@@ -1,5 +1,5 @@
-# Analyzing-Chronic-Disease-Indicators-and-Behavioral-Data-
-We aim to identify trends in US regions with higher prevalence of chronic diseases, by cross referencing the Centre for Disease Control and Prevention’s (CDC) data on Chronic Disease Indicators (CDI) with behavioral insights from the 2022 Behavioral Risk Factor Surveillance System (BRFSS). 
+# Analyzing-Diabetes-in-US
+This repository contains my team's analysis of Chronic Diseases and Behavioral Factors in the US with a focus on Diabetes, and potential insights and recommendations to better address the national health crisis.
 
 # Contributing Team Members
 Arnav Sachdeva, Haojiang Wu, Hui Gao, Pin-Hao Pan, Rashi Jaiswal, Tharfeed Ahmed Unus
